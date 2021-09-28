@@ -1,4 +1,6 @@
-## TwofoldCProgrammingLanguageThis is why others learn efficiently
+# TwofoldCProgrammingLanguage
+
+## This is why others learn efficiently
 
 ### Holistic learning step
 1. Obtain different processing for different acquired information:
@@ -35,3 +37,5 @@ Don’t study. Don’t study purely for the sake of learning. You must study wit
 Batch processing of the same types of things together can improve efficiency, be more focused, and reduce the cost of brain switching between different tasks.
 
 Organized daily things organized. = "Organize your desktop, put all the items in a fixed place, establish a sense of order, will reduce the waste of time and attention scattered in the chaos. Use a notepad to record at any time, to-do items, and flash ideas. When you feel that there is no progress in your studies, you can look through the records and you will see that you have done so many things before, which can reduce your anxiety.
+
+![image](https://github.com/BinaryArtists/reading-list/blob/master/resource/how-to-study.png)
