@@ -43,6 +43,6 @@ Organized daily things organized. = "Organize your desktop, put all the items in
 #### How to get along with people
 #### How to solve the problem
 #### know yourself
-####Consider from career development
-####Your hard work and diligence must be seen by others
-####Develop communication skills
+#### Consider from career development
+#### Your hard work and diligence must be seen by others
+#### Develop communication skills
