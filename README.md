@@ -39,3 +39,10 @@ Batch processing of the same types of things together can improve efficiency, be
 Organized daily things organized. = "Organize your desktop, put all the items in a fixed place, establish a sense of order, will reduce the waste of time and attention scattered in the chaos. Use a notepad to record at any time, to-do items, and flash ideas. When you feel that there is no progress in your studies, you can look through the records and you will see that you have done so many things before, which can reduce your anxiety.
 
 ![image](https://github.com/BinaryArtists/reading-list/blob/master/resource/how-to-study.png)
+### Skills of being a programmer
+#### How to get along with people
+#### How to solve the problem
+#### know yourself
+####Consider from career development
+####Your hard work and diligence must be seen by others
+####Develop communication skills
