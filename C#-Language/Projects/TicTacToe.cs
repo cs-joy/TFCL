@@ -15,14 +15,22 @@ namespace TIC_TAC_TOE {
         static void Main(string[] args) {
             do {
                 Console.Clear(); //Whenever loop will be again start then screen will be clear
-                Console.WriteLine("Player1:X and Player2:O");
-                Console.WriteLine("\n");
+                Console.WriteLine("------TIC TAC TOE------");
+                Console.WriteLine("@Develop by CsJoy");
+                Console.WriteLine("-----INFO-----");
+                Console.WriteLine("Player1: X");
+                Console.WriteLine("Player2: O");
+                Console.WriteLine("---------------\n");
 
                 //Checking the chance of the player
                 if (player % 2 == 0) {
-                    Console.WriteLine("Player 2 Chance");
+                    Console.WriteLine("--Second User---");
+                    Console.WriteLine("Now Your Chance");
+                    Console.WriteLine("-----------------");
                 } else {
-                    Console.WriteLine("Player 1 Chance");
+                    Console.WriteLine("--First User-----");
+                    Console.WriteLine("Now Your Chance");
+                    Console.WriteLine("-----------------");
                 }
                 Console.WriteLine("\n");
                 Board(); //Calling the board function
@@ -40,10 +48,11 @@ namespace TIC_TAC_TOE {
                         player++;
                     }
                 } else { //If there is any position where user want to run and that is already marked then show message and load board again
-                    Console.WriteLine("Sorry the row {0} is already marked with {1}", choice, arr[choice]);
-                    Console.WriteLine("/n");
-                    Console.WriteLine("Please wait 2 second board is loading again.....");
-                    Thread.Sleep(2000);
+                    Console.WriteLine(" _______________________NOTE_________________");
+                    Console.WriteLine("Sorry the row {0} is already marked with {1}  ", choice, arr[choice]);
+                    Console.WriteLine("Please wait 2 second, board is loading again..");
+                    Console.WriteLine("______________________________________________");
+                    Thread.Sleep(4000);
                 }
                 flag = CheckWin(); //Calling of check win
             } while (flag != 1 && flag != -1); //This loop will be run until all cell of the grid is not marked with X and O or some player is not won
@@ -53,32 +62,38 @@ namespace TIC_TAC_TOE {
 
             //If flag value is 1 then some one has win or means who players marked last time which has win
             if (flag == 1) {
-                Console.WriteLine("Player {0} has won", (player % 2) + 1);
-            } else { //If flag value -1 the match will be draw and no one is winnner
-                Console.WriteLine("Draw");
+                Console.WriteLine("-----------------------------------");
+                Console.WriteLine("Result : Player {0} has won the game", (player % 2) + 1);
+                Console.WriteLine("-----------------------------------");
+            } else { //If flag value -1 the match will be draw and no one is winner
+                Console.WriteLine("_________________");
+                Console.WriteLine("Result : Draw");
+                Console.WriteLine("_________________");
             }
             Console.ReadLine();
         }
 
         //Board method which creates board
         private static void Board() {
-            Console.WriteLine("     |     |      ");
+            Console.WriteLine("_________________ ");
+            Console.WriteLine("|    |     |    |");
 
-            Console.WriteLine("  {0}  |  {1}  |  {2}", arr[1], arr[2], arr[3]);
+            Console.WriteLine("| {0}  |  {1}  |  {2} |", arr[1], arr[2], arr[3]);
 
-            Console.WriteLine("_____|_____|_____ ");
+            Console.WriteLine("|____|_____|____| ");
 
-            Console.WriteLine("     |     |      ");
+            Console.WriteLine("|    |     |    | ");
 
-            Console.WriteLine("  {0}  |  {1}  |  {2}", arr[4], arr[5], arr[6]);
+            Console.WriteLine("| {0}  |  {1}  |  {2} |", arr[4], arr[5], arr[6]);
 
-            Console.WriteLine("_____|_____|_____ ");
+            Console.WriteLine("|____|_____|____| ");
 
-            Console.WriteLine("     |     |      ");
+            Console.WriteLine("|    |     |    | ");
 
-            Console.WriteLine("  {0}  |  {1}  |  {2}", arr[7], arr[8], arr[9]);
+            Console.WriteLine("| {0}  |  {1}  |  {2} |", arr[7], arr[8], arr[9]);
 
-            Console.WriteLine("     |     |      ");
+            Console.WriteLine("|    |     |    | ");
+            Console.WriteLine("|____|_____|____| ");
         }
 
         //Checking that any player has won or not
