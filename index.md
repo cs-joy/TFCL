@@ -4,11 +4,6 @@ You can use the [editor on GitHub](https://github.com/cs-joy/ThreeFoldCProgrammi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[![Github](https://img.shields.io/github/followers/cs-joy?label=Follow&style=social)](https://github.com/cs-joy)
-![HelloBox](https://visitor-badge.laobi.icu/badge?page_id=cs-joy.cs-joy) 
-
-
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
