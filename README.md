@@ -1,8 +1,26 @@
 # ThreefoldCProgrammingLanguage
 
-# C Programming Language
-# C++ Programming Language
-# C# Programming Language
+###### [C Programming Language](https://github.com/cs-joy/ThreeFoldCProgrammingLanguage/tree/main/C-Language)
+###### [C++ Programming Language](https://github.com/cs-joy/ThreeFoldCProgrammingLanguage/tree/main/CPP-Language)
+###### [C# Programming Language](https://github.com/cs-joy/ThreeFoldCProgrammingLanguage/tree/main/C%23-Language)
+
+
+
+## Profile visitor
+![HelloBox](https://visitor-badge.laobi.icu/badge?page_id=cs-joy.cs-joy) 
+## GitHub profile followers count
+[![Github](https://img.shields.io/github/followers/cs-joy?label=Follow&style=social)](https://github.com/cs-joy)
+## GitHub profile statistics (stars, commits, etc)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cs-joy&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
+
+
+ 
 ## This is why others learn efficiently
 
 ### Holistic learning step
@@ -49,3 +67,6 @@ Organized daily things organized. = "Organize your desktop, put all the items in
 #### Consider from career development
 #### Your hard work and diligence must be seen by others
 #### Develop communication skills
+
+## Image
+![GitHub Logo](/assets/C.png)
