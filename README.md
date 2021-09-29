@@ -1,3 +1,10 @@
+<a href="https://github.com/cs-joy/awesome-github-profile-readme/cs-joy"><img src="https://img.shields.io/github/stars/cs-joy/ThreeFoldCProgrammingLanguage" alt="Stars Badge"/></a>
+<a href="https://github.com/cs-joy/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/cs-joy/ThreeFoldCProgrammingLanguage" alt="Forks Badge"/></a>
+<a href="https://github.com/cs-joy/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/cs-joy/ThreeFoldCProgrammingLanguage" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/cs-joy/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/cs-joy/ThreeFoldCProgrammingLanguage" alt="Issues Badge"/></a>
+<a href="https://github.com/cs-joy/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cs-joy/ThreeFoldCProgrammingLanguage?color=2b9348"></a>
+<a href="https://github.com/cs-joy/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/cs-joy/ThreeFoldCProgrammingLanguage?color=2b9348" alt="License Badge"/></a>
+
 # ThreefoldCProgrammingLanguage
 
 ###### [C Programming Language](https://github.com/cs-joy/ThreeFoldCProgrammingLanguage/tree/main/C-Language)
