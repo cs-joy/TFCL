@@ -4,6 +4,8 @@
 <a href="https://github.com/cs-joy/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/cs-joy/ThreeFoldCProgrammingLanguage" alt="Issues Badge"/></a>
 <a href="https://github.com/cs-joy/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cs-joy/ThreeFoldCProgrammingLanguage?color=2b9348"></a>
 <a href="https://github.com/cs-joy/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/cs-joy/ThreeFoldCProgrammingLanguage?color=2b9348" alt="License Badge"/></a>
+[![Github](https://img.shields.io/github/followers/cs-joy?label=Follow&style=social)](https://github.com/cs-joy)
+![HelloBox](https://visitor-badge.laobi.icu/badge?page_id=cs-joy.cs-joy) 
 
 # ThreefoldCProgrammingLanguage
 
@@ -11,23 +13,11 @@
 ###### [C++ Programming Language](https://github.com/cs-joy/ThreeFoldCProgrammingLanguage/tree/main/CPP-Language)
 ###### [C# Programming Language](https://github.com/cs-joy/ThreeFoldCProgrammingLanguage/tree/main/C%23-Language)
 
-
-
-## Profile visitor
-![HelloBox](https://visitor-badge.laobi.icu/badge?page_id=cs-joy.cs-joy) 
-
-## GitHub profile followers count
-[![Github](https://img.shields.io/github/followers/cs-joy?label=Follow&style=social)](https://github.com/cs-joy)
-
 ## GitHub profile statistics (stars, commits, etc)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cs-joy&show_icons=true&theme=tokyonight)
 
 ## Most used languages in my repositories
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs-joy&theme=tokyonight)
-
-
-
-
 
  
 ## This is why others learn efficiently
