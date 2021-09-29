@@ -1,5 +1,8 @@
-# TwofoldCProgrammingLanguage
+# ThreefoldCProgrammingLanguage
 
+# C Programming Language
+# C++ Programming Language
+# C# Programming Language
 ## This is why others learn efficiently
 
 ### Holistic learning step
